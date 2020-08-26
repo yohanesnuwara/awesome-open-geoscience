@@ -139,6 +139,8 @@ Awesome software projects sub-categorized by focus.
 - [GSQ Open Data Portal](https://geoscience.data.qld.gov.au/) – Petroleum, coal, and mineral geoscience data from the Queensland resource industry and government, with supporting information from [GSQ GitHub Repository](https://github.com/geological-survey-of-queensland) for Data Models, RDF Vocabularies, and system design
 - [Geoscience Australia Portal](https://portal.ga.gov.au/) – Comprehensive map-based Australian data portal across multiple geoscience domains
 - [SARIG](https://map.sarig.sa.gov.au/) – South Australian Resources and Information Gateway providing map-based statewide geoscientific and geospatial data with over 600 datasets.
+- [Kansas Geological Survey](http://www.kgs.ku.edu/PRS/Scans/Log_Summary/index.html) – Collection of LAS archives of Kansas Geological Survey from 1998 up to date.
+- [Geothermal Data Repository](https://gdr.openei.org/home) - U.S. Department of Energy repository contains exploration data of geothermal surveys, hydrothermal, and enhanced geothermal system (gravity, magnetic, magnetotelluric, heat survey, shapefiles, etc.)
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
